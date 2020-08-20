@@ -3,4 +3,5 @@ The purpose of ths project is to use unsupervised learning to analyze data on th
 # Analysis
 The provided csv data is not clean so it will be processed to fit the machine learning models. 
 
-#Resources: Data: crypto_data.csv, Tool: Python 3.7 on Jupyter notebook
+# Resources: Data:
+crypto_data.csv, Tool: Python 3.7 on Jupyter notebook
